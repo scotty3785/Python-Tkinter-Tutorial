@@ -18,3 +18,5 @@ Now that we've saved the file lets run it and see what happens. To run the progr
 Not very impressive is it!! What we have done is to tell python to create a Tkinter window and draw a blank Frame on to the window. 
 
 ## Tutorial 2 - Adding some widgets.
+We are going to modify the code we created in the first tutorial to add two widgets; a Text Label and a Button.
+Label is a widget class; inside the Tkinter code it describes how to draw this widget on to the screen, what text should be displayed inside it along with lots of different properties that we can set like its Foreground Colour. 
