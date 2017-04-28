@@ -35,6 +35,7 @@ def main():
     root = Tk()
     app = App(master=root)
     app.grid()
+    root.mainloop()
 
 """This is the code that is executed by python when we run this .py file"""
 if __name__ == '__main__':
